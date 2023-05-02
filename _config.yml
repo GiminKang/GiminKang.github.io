@@ -14,7 +14,7 @@ color-scheme: light
 
 title: Haneul Yoo
 description: "Ph.D. student<br>U&I Lab, School of Computing, KAIST"
-logo: "./assets/photo.png"
+logo: "./assets/DA Form.jpg"
 google_analytics: G-016QN3TNY0
 
 search: true
@@ -23,7 +23,7 @@ search_full_content: true
 sidebar:
   - name: CV
     icon: <i class="fas fa-fw fa-file"></i>
-    link: "https://haneul-yoo.github.io/assets/CV___Haneul_Yoo.pdf"
+    link: "https://giminkang.github.io/assets/Resume.pdf"
   - name: Email
     icon: <i class="fas fa-fw fa-envelope-square"></i>
     link: "mailto:haneul.yoo@kaist.ac.kr"
