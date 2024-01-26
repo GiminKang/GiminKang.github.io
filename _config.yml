@@ -29,3 +29,6 @@ sidebar:
   - name: GitHub
     icon: <i class="fab fa-fw fa-github"></i>
     link: "https://github.com/GiminKang"
+  - name: Google scholar
+    icon: <i class="fab fa-fw fa-google-scholar"></i>
+    link: "https://scholar.google.com/citations?user=kyabkaMAAAAJ&hl=ko"
