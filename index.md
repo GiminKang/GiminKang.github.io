@@ -16,15 +16,15 @@ Through these research, I am eager to solve real world financial problems with m
 
 ## Publications
 - **"Encoding Temporal Statistical-space Priors via Augmented Representation"**   
-  Insu Choi*, Wooshung Koh*, Gimin Kang, Yuntae Jang, and Woochang Kim   
+  Insu Choi*, Woosung Koh*, Gimin Kang, Yuntae Jang, and Woochang Kim   
   _STRL@IJCAI Workshop, Jeju, Republic of Korea, 2024_
 
 - **"Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series"**   
-  Insu Choi*, Wooshung Koh*, Yuntae Jang*, Gimin Kang, and Woochang Kim   
+  Insu Choi*, Woosung Koh*, Yuntae Jang*, Gimin Kang, and Woochang Kim   
   _AI4TS@AAAI Workshop (Oral Presentation), Vancouver, Canada, 2024_
 
 - **"Linear and Monotonic Statistical Dependence-Oriented Price Fluctuation Prediction via Temporal Graph Convolutional Network"**   
-  Insu Choi*, Wooshung Koh*, Gimin Kang*, Yuntae Jang, and Woochang Kim   
+  Insu Choi*, Woosung Koh*, Gimin Kang*, Yuntae Jang, and Woochang Kim   
   _KAAI, Jeju, Republic of Korea, 2023_
 
 - **"News Attention Analysis Based on Stock Price Data"**   
