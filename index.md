@@ -17,7 +17,7 @@ Through these research, I am eager to solve real world financial problems with m
 ## Publications
 - **"Encoding Temporal Statistical-space Priors via Augmented Representation"**   
   Insu Choi*, Woosung Koh*, Gimin Kang, Yuntae Jang, and Woochang Kim   
-  _STRL@IJCAI Workshop, Jeju, Republic of Korea, 2024_
+  _STRL@IJCAI Workshop (Oral Presentation), Jeju, Republic of Korea, 2024_
 
 - **"Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series"**   
   Insu Choi*, Woosung Koh*, Yuntae Jang*, Gimin Kang, and Woochang Kim   
