@@ -20,7 +20,7 @@ Through these research, I am eager to solve real world financial problems with m
   _STRL@IJCAI Workshop, Jeju, Republic of Korea, 2024_
 
 - **"Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series"**   
-  Insu Choi*, Wooshung Koh*, Yuntae Jang, Gimin Kang, and Woochang Kim   
+  Insu Choi*, Wooshung Koh*, Yuntae Jang*, Gimin Kang, and Woochang Kim   
   _AI4TS@AAAI Workshop (Oral Presentation), Vancouver, Canada, 2024_
 
 - **"Linear and Monotonic Statistical Dependence-Oriented Price Fluctuation Prediction via Temporal Graph Convolutional Network"**   
