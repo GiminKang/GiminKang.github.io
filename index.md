@@ -15,21 +15,20 @@ Through these research, I am eager to solve real world financial problems with m
 - **B.E.** in Industrial and System Engineering, KAIST _(Feb 2017 - Feb 2025)_
 
 ## Publications
-- **"Encoding Temporal Statistical-space Priors via Augmented Representation"**
-  Insu Choi*, Wooshung Koh*, Gimin Kang, Yuntae Jang, and Woochang Kim
+- **"Encoding Temporal Statistical-space Priors via Augmented Representation"**   
+  Insu Choi*, Wooshung Koh*, Gimin Kang, Yuntae Jang, and Woochang Kim   
   _STRL@IJCAI Workshop, Jeju, Republic of Korea, 2024_
 
-- **"Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series"**
-  Insu Choi*, Wooshung Koh*, Yuntae Jang, Gimin Kang, and Woochang Kim
+- **"Curriculum Learning and Imitation Learning for Model-free Control on Financial Time-series"**   
+  Insu Choi*, Wooshung Koh*, Yuntae Jang, Gimin Kang, and Woochang Kim   
   _AI4TS@AAAI Workshop (Oral Presentation), Vancouver, Canada, 2024_
 
-- **"Linear and Monotonic Statistical Dependence-Oriented Price Fluctuation Prediction via Temporal Graph
-Convolutional Network"**
-  Insu Choi*, Wooshung Koh*, Gimin Kang*, Yuntae Jang, and Woochang Kim
+- **"Linear and Monotonic Statistical Dependence-Oriented Price Fluctuation Prediction via Temporal Graph Convolutional Network"**   
+  Insu Choi*, Wooshung Koh*, Gimin Kang*, Yuntae Jang, and Woochang Kim   
   _KAAI, Jeju, Republic of Korea, 2023_
 
-- **"News Attention Analysis Based on Stock Price Data"**
-  Gimin Kang, and Ilchul Moon
+- **"News Attention Analysis Based on Stock Price Data"**   
+  Gimin Kang, and Ilchul Moon   
   _Bachelor's thesis, KAIST, 2022_
 
 ## Experiences
