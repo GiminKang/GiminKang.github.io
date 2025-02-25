@@ -1,12 +1,25 @@
 ## About
-Hi, I'm Gimin Kang. I'm interested in application of machine learning and data science.
+Hi, I'm Gimin Kang. I am a master student at the Department of Industrial and Systems Engineering (ISE), Korea Advanced Institute of Science and Technology (KAIST), under Professor Woochang Kim.
+
+In the past, I studied various machine learning models and how to utilize those models on various data, especially time-series. Recently, I want to conduct further research on how to apply machine learning techniques in practice, and help humans make the proper decisions through machine learning outcomes. Specifically, I want to study more about the following techniques.
+
+- Data-Centric AI, which improves the performance of ML models by improving qualities of data.
+- Decision Focused Learning, which can optimize quality of decisions during the training phase of models.
+
+Through these research, I am eager to solve real world financial problems with machine learning skills.
 
 ## Education
-- **B.S.** in Industrial and System Engineering, KAIST _(Mar 2017 - present)_
-  - Advisor: Young-Jae, Jang
-- Busan-il Science High School, South Korea _(Mar 2015 - Feb 2017)_
+- **M.E.** in Industrial and System Engineering, KAIST _(Feb 2025 - present)_
+  - Financial Engineering LAB
+  - Advisor: Woochang, Kim
+- **B.E.** in Industrial and System Engineering, KAIST _(Feb 2017 - Feb 2025)_
 
-## Work Experiences
+## Publications
+- **"Encoding Temporal Statistical-space Priors via Augmented Representation"**
+Insu Choi*, Wooshung Koh*, Gimin Kang, Yuntae Jang and Woochang Kim
+STRL@IJCAI Workshop, Jeju, Republic of Korea
+
+## Experiences
 - **Company Intern** at [Hana Institute of Technology](https://hit.hanati.co.kr/), Seoul, Korea _(Aug 2023 - Feb 2024)_
   - Financial indices prediction
   - Fund recommendation
@@ -19,11 +32,11 @@ Hi, I'm Gimin Kang. I'm interested in application of machine learning and data s
   - Recommender system
   - Advisor: Woo-Chang, Kim
  
-- **Research Intern** at [AAI Lab](https://aai.kaist.ac.kr/xe2), Daejeon, Korea _(Jun 2022 - Aug 2022)_
+- **Research Intern** at [AAI Lab](https://aai.kaist.ac.kr), Daejeon, Korea _(Jun 2022 - Aug 2022)_
   - News Attention Analysis based on stock price data
   - Advisor: Il-Chul, Moon
 
 ## Honors & Awards
-- **KAIST Support Scholarship** at KAIST _(2017 - 2019, 2022)_
-
-## Publications
+- **Excellence Award (2nd prize)**, _IE Frontier_, _KAIST ISE_, _2022_
+- **Encouragement Award (3rd prize)**, _FIELD_, _Korean Institute of Industrial Engineers_, _2022_
+- **KAIST Support Scholarship** at KAIST _(2017 - 2024)_
